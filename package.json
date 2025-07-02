@@ -1,0 +1,22 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "The intent of this project is to complete basic testing practices using Jest.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepend15/odin-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepend15/odin-testing-practice/issues"
+  },
+  "homepage": "https://github.com/deepend15/odin-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
