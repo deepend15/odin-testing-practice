@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/deepend15/odin-testing-practice#readme",
   "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "@types/jest": "^30.0.0",
+    "babel-jest": "^30.0.2",
     "jest": "^30.0.3"
   }
 }
