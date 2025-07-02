@@ -8,6 +8,6 @@ test('Capitalize "string"', () => {
     expect(capitalize('string')).toBe("String");
 })
 
-test('Capitalize "weirdWORD"', () => {
+test('Capitalize "wEiRd-WoRd"', () => {
     expect(capitalize('wEiRd-WoRd')).toBe("WEiRd-WoRd");
 })
