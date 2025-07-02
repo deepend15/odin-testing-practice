@@ -4,8 +4,8 @@
   "description": "The intent of this project is to complete basic testing practices using Jest.",
   "main": "main.js",
   "scripts": {
-    "test": "jest",
-    "watch": "jest --watch *.js"
+    "test": "jest --verbose",
+    "watch": "jest --verbose --watch *.js"
   },
   "repository": {
     "type": "git",
